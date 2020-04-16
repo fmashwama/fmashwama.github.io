@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Fanele Mashwama
+email:       fmashwama@gmail.com
+author:      Fanele Mashwama
+description: "fanele mashwama's personal website with links to academic and non-academic writing"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://fanelemashwama.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
