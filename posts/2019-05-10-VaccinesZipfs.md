@@ -1,5 +1,14 @@
 ---
 layout:     post
+title:      Using global demand calibrations to evaluate policy, the case of HIV pharmaceuticals
+date:       2019-05-10 12:00:01
+summary:    A policy brief on calibrated theoretical work on the global demand curve for HIV antiretroviral therapies.
+categories: 
+---
+
+
+---
+layout:     post
 title:      Using global demand calibrations to evaluate policy: The case of HIV pharmaceuticals
 date:       2019-05-10 01:00:01
 summary:    A policy brief on policy and theoretical work on the global demand curve for HIV antiretrovial therapies.
