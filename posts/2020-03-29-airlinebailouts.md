@@ -6,6 +6,7 @@ summary:    A case against subsidizing airline equity holders, written with Muta
 categories: 
 ---
 <div style="text-align: justify">
+
 Also [available here](https://us18.campaign-archive.com/?u=66debbe833e4af394aa5c54d8&id=cd6d671aed). Written with [Mutable Matter](https://medium.com/mutable-matter).
 
 There’s a lot to like about the CARE Act. 
