@@ -1,38 +1,22 @@
+---
+layout: default
+---
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-{% include head.html %}
-<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
-  {% if site.google_tag_manager %}
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  {% endif %}
-	{% if site.facebook_comments %}
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId={{ site.facebook_appid }}";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-	{% endif %}
-  
 {% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
 {% if minutes == 0 %}
 {% assign minutes = 1 %}
 {% endif %}
 
-  <div class="site-wrap">
-    {% include header.html %}
 
+<div class="post-header mb2">
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
       <a href="http://www.fanelemashwama.com" class="site-title">Fanele Mashwama</a>
       <nav class="site-nav">
-        
+
 <a href="/">Home</a>
+
 
 <a href="/posts/index.html">Posts</a>
 
@@ -45,7 +29,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
     </div>
   </div>
-        
+
   <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
   {% if page.update_date %}
     <span class="post-meta">{{ site.text.post.updated | default: "Updated" }}: {{ page.update_date | date: site.date_format }}</span><br>
@@ -59,10 +43,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </span>
 </div>
   </header>
-  
-      <div class="measure">
-        
-        <article class="post-content">
+
+<article class="post-content">
   {{ content }}
 </article>
 
@@ -105,19 +87,3 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   {% endfor %}
 {% endif %}
-
-      </div>
-    </div>
-  </div>
-</body>
-</html>
-
-
-
-
-
-
-
-
- 
-
