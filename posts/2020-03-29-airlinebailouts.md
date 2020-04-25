@@ -2,11 +2,11 @@
 layout:     post
 title:      Airlines - Bankruptcy, Bailouts, and Moral Hazard
 date:       2020-03-29 12:00:01
-summary:    A case against subsidizing airline equity holders, written with [mutable matter](https://medium.com/mutable-matter).
+summary:    A case against subsidizing airline equity holders, written with Mutable Matter.
 categories: 
 ---
-
-Also [avaivalable here](https://us18.campaign-archive.com/?u=66debbe833e4af394aa5c54d8&id=cd6d671aed).
+<div style="text-align: justify">
+Also [available here](https://us18.campaign-archive.com/?u=66debbe833e4af394aa5c54d8&id=cd6d671aed). Written with [Mutable Matter](https://medium.com/mutable-matter).
 
 There’s a lot to like about the CARE Act. 
 
@@ -34,4 +34,5 @@ Finally, they can raise a substantial portion of the required liquidity in priva
 
 To be sure, it isn’t all bad news. We are thrilled, for instance, that the proposed structure of the relief promises to give the taxpayer some equity in the airlines that take CARE Act funds. How exactly we will exercise our shareholder rights is a separate question, and perhaps this new era of society-first corporate governance will enable new types of digital shareholder participation platforms. 
 
-In times like these though, the increased proliferation of our most basic technology - common sense - would be a welcome silver lining. 
+In times like these though, the increased proliferation of our most basic technology - common sense - would be a welcome silver lining.
+</div>
