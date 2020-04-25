@@ -2,7 +2,7 @@
 layout:     post
 title:      Using global demand calibrations to evaluate policy: The case of HIV pharmaceuticals
 date:       2019-05-10 01:00:01
-summary:    A policy brief on the importance for policy of theoretical research on the global demand curve for antiretrovival therapies for HIV. Written with Michael Kremer and Chris Snyder.
+summary:    A policy brief on policy and theoretical work on the global demand curve for HIV antiretrovial therapies.
 categories: 
 ---
 
