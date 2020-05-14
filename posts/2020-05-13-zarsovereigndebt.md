@@ -31,10 +31,10 @@ This is the core evidence I looked at in the financial mail.
 * sasw5curncy 
 * sabs5curncy 
 * repsoucdsusdsr5yd 
-* and getting the 5Y zero coupon US yield curve [here](https://www.federalreserve.gov/data/nominal-yield-curve.htm).
+* and getting the 5Y zero coupon US yield [here](https://www.federalreserve.gov/data/nominal-yield-curve.htm).
 
 So what to make of this? 
 
-To be honest I'm not totally sure. I have many questions. How bad are the potential contagion spillovers from mismatched corporates in this case specifically? (We don't have really well identified evidence from past retrenchment episodes from corporates to the sovereign side since the Asian 1990's crisis worked slightly differently.) Can you successfully run this sort of marcoprudential regulatory program as a solo-country in this setting or do you need multilateral coordination? (To be sure, India has something like this.) And, somewhat unrelated, does South Africa enjoy some dollar-esque exorbitant privilege as the core of the rand area?
+To be honest, I'm not totally sure. I have many questions. How bad are the potential contagion spillovers from mismatched corporates in *this case* specifically? Can you successfully run this sort of marcoprudential regulatory program as a solo-country in this setting or do you need multilateral coordination? And, somewhat unrelated, does South Africa enjoy some dollar-esque exorbitant privilege as the core of the Rand area? Some questions to look into. 
 
-I'm going to think about this a bit going forward. Thanks for checking this post out!
+Thanks for checking this post out!
