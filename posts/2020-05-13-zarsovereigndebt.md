@@ -10,9 +10,7 @@ Full [article here](https://www.fm.co.za/) - available ungated.
 
 In this week's copy of the financial mail I argued the corporate sector in South Africa has some responsibility for the ongoing debt concerns on the sovereign side. Specifically, I suggested we have defeasible evidence that currency mismatches between corporate revenues and liabilities increase sovereign borrowing costs, and that the associated threat of contagion in episodes of capital retrenchments (like this one) is a serious cause for concern. I went further and speculatively suggested that capital controls might be justified as a macroprudential regulatory tool in light of this pattern of facts.
 
-The [article](https://www.fm.co.za/) is available ungated so I won't rehash the argument here. 
-
-Instead I'll merely show the evidence I relied on, share instructions on how to replicate it and offer some supplemental speculative thoughts. 
+The [article](https://www.fm.co.za/) is available ungated so I won't rehash the argument. Instead I'll merely show the evidence I relied on, share instructions on how to replicate it and offer some supplemental speculative thoughts. 
 
 Here's the picture:
 
