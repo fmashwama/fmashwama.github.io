@@ -18,7 +18,7 @@ Here's the picture:
 
 ![zar5yspreads](/assets/ZAR_5Y_spreads_CDS_vWebsite.jpg){:class="img-responsive"}
 
-Replicating [Du & Schreger (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12389) I isolate the market implied outright default risk on ZAR 5Y zero coupon government bonds -- the "(1) local currency default risk" -- assuming risk neutrality. To do this we swap the US yield curve into ZAR using fixed-for-fixed cross currency swaps and then subtract that riskless benchmark from the actual ZAR yield curve. Taking the nominal ZAR - USD spread and subtracting (1) gives the implied forward premium or "(2) currency risk". The credit default swap yield series is in red.
+Replicating [Du & Schreger (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12389) I isolate the market implied outright default risk on ZAR 5Y zero coupon government bonds -- the "(1) local currency default risk" -- assuming risk neutrality. To do this we swap the US yield curve into ZAR using fixed-for-fixed cross currency swaps and then subtract that riskless benchmark from the actual ZAR yield curve. Taking the nominal ZAR - USD spread and subtracting (1) gives the implied forward premium or "(2) currency risk". The credit default swap spread series is in red.
 
 The picture shows South Africa pays an anomalously low local currency spread. It's quite a remarkable picture to be honest. It suggests a near zero market implied outright default risk on ZAR denominated South African sovereign debt. That's a bit difficult to square with the CDS spread in the same picture. 
 
