@@ -24,7 +24,14 @@ The picture shows South Africa pays an anomalously low local currency spread. It
 
 This is the core evidence I looked at in the financial mail.
 
-**Replication:** You can replicate this picture by downloading the following series from a bloomberg terminal: * ussw5curncy * c2625yindex * sasw5curncy * sabs5curncy * repsoucdsusdsr5yd * and getting the 5Y zero coupon US yield curve [here](https://www.federalreserve.gov/data/nominal-yield-curve.htm).
+**Replication:** You can replicate this picture by downloading the following series from a bloomberg terminal: 
+
+* ussw5curncy 
+* c2625yindex 
+* sasw5curncy 
+* sabs5curncy 
+* repsoucdsusdsr5yd 
+* and getting the 5Y zero coupon US yield curve [here](https://www.federalreserve.gov/data/nominal-yield-curve.htm).
 
 So what to make of this? 
 
