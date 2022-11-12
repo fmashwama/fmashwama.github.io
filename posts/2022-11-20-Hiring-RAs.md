@@ -6,7 +6,7 @@ summary:    Hiring two Research Assitants based in Southern Africa who can acces
 categories: 
 ---
 
-Seeking two applicants to work as part-time Research Assistants on projects in development-finance with large administrative datasets and a strong policy forcus. Candidates must be able to get to Pretoria's Central Business District (where data servers are located) on a semi-regular basis (travel stipend negotiable). Appointments to begin in December through to June 2023. 
+Seeking two applicants to work as part-time Research Assistants on projects in development-finance with large administrative datasets and a strong policy focus. Candidates must be able to get to Pretoria's Central Business District (where data servers are located) on a semi-regular basis (travel stipend negotiable). Appointments to begin in December through to June 2023. Application deadline Dec 1st.
 
 Candidates with intermediate or higher programming skills in R, Python or STATA are encouraged to apply. Passing familiarity with balance sheets, income and cashflow statements are welcome.
 
